@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalLocalOptions">
+    <option name="shellPath" value="C:\WINDOWS\system32\cmd.exe" />
+  </component>
+</application>
