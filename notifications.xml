@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="ai.assistant.installer.notifications" displayType="STICKY_BALLOON" />
+  </component>
+</application>
