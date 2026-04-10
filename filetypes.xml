@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.release" type="PLAIN_TEXT" />
       <mapping ext="2scss" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
