@@ -1,7 +1,7 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\hooks\useMenuClickRefresh.ts'" />
+    <option name="defaultScopeName" value="File '…\hooks\useMenuClickRefresh.ts'" />
+    <option name="SEARCH_SCOPE" value="File '…\hooks\useMenuClickRefresh.ts'" />
   </component>
 </application>
